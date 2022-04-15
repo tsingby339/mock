@@ -11,4 +11,8 @@
   "profile": {
     "name": "typicode"
   }
+  "cesi": {
+    "uomCode" : "001"
+    
+  }
 }
